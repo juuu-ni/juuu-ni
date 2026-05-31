@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="center">🌈 SNS & Contact 🌈</h3>
+<h3 align="center">🌈 Contact 🌈</h3>
 
 <div align="center">
   <a href="mailto:posco233@gmail.com">
