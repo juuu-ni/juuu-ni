@@ -23,10 +23,6 @@
 <h3 align="center">🌈 SNS & Contact 🌈</h3>
 
 <div align="center">
-  <a href="https://www.instagram.com/junnni_02/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
-  </a>
-  <img width="8" />
   <a href="mailto:posco233@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
