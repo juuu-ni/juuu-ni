@@ -79,6 +79,8 @@
 
 <h4 align="center">Tools</h4>
 <div align="center">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="30" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
 </div>
 
