@@ -1,21 +1,21 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Y3dWdjNDl0eGtwMXhoZ3FiYWtiNzduaHluNjA1MmwzNjNyb25weiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" />
 </div>
 
 ###
 
-<h1 align="center">안녕하세요 👋</h1>
+<h1 align="center">이준희의 Github에 오신 걸 환영합니다 🙌</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
 <p align="left">
-- 🔭 AI를 활용한 풀스택 개발자를 목표로 공부 중입니다.<br>
-- 📚 현재 데이터 크롤링, 바이브코딩을 학습 중입니다.<br>
-- ⚡ 시작한 것은 끝까지 완주하는 개발자입니다.
+- 💻 AI + 웹 개발에 관심이 많습니다.<br>
+- 📚 꾸준히 공부하며 성장 중인 개발자입니다.<br>
+- 📌 시작한 것은 끝까지 마무리하는 개발자입니다.
 </p>
 
 ###
@@ -25,17 +25,23 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="30" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="30" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
 </div>
 
 ###
@@ -45,5 +51,5 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=juuu-ni&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=juuu-ni&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
