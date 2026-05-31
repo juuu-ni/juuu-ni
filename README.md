@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Y3dWdjNDl0eGtwMXhoZ3FiYWtiNzduaHluNjA1MmwzNjNyb25weiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" />
+  <img height="150" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" />
 </div>
 
 ###
@@ -20,27 +20,59 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="center">🌈 SNS & Contact 🌈</h2>
+
+<div align="center">
+  <a href="https://www.instagram.com/junnni_02/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
+  </a>
+  <img width="8" />
+  <a href="mailto:posco233@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+  </a>
+  <img width="8" />
+  <a href="mailto:ljh23502@naver.com">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" height="30" />
+  </a>
+</div>
 
 ###
 
-<div align="left">
+<h2 align="center">📚 Tech Stack 📚</h2>
+
+<h4 align="center">✨ Languages & Platforms ✨</h4>
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" />
   <img width="8" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" />
   <img width="8" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" />
   <img width="8" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" />
+</div>
+
+###
+
+<h4 align="center">✨ Frameworks & Libraries ✨</h4>
+<div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30" />
   <img width="8" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30" />
   <img width="8" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" />
-  <img width="8" />
+</div>
+
+###
+
+<h4 align="center">✨ Database & Cloud ✨</h4>
+<div align="center">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="30" />
-  <img width="8" />
+</div>
+
+###
+
+<h4 align="center">✨ Tools ✨</h4>
+<div align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
 </div>
 
