@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="center">🌈 SNS & Contact 🌈</h2>
+<h3 align="center">🌈 SNS & Contact 🌈</h3>
 
 <div align="center">
   <a href="https://www.instagram.com/junnni_02/">
@@ -38,9 +38,9 @@
 
 ###
 
-<h2 align="center">📚 Tech Stack 📚</h2>
+<h3 align="center">📚 Tech Stack 📚</h3>
 
-<h4 align="center">✨ Languages & Platforms ✨</h4>
+<h4 align="center">Languages & Platforms</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" />
   <img width="8" />
@@ -53,7 +53,7 @@
 
 ###
 
-<h4 align="center">✨ Frameworks & Libraries ✨</h4>
+<h4 align="center">Frameworks & Libraries</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30" />
   <img width="8" />
@@ -64,14 +64,14 @@
 
 ###
 
-<h4 align="center">✨ Database & Cloud ✨</h4>
+<h4 align="center">Database & Cloud</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="30" />
 </div>
 
 ###
 
-<h4 align="center">✨ Tools ✨</h4>
+<h4 align="center">Tools</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
 </div>
