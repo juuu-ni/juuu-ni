@@ -2,12 +2,6 @@
   <img height="150" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" />
 </div>
 
-###
-
-<h1 align="center"> 🚀 오늘도 잔디 심는 이준희  </h1>
-
-###
-
 <h3 align="left">👩‍💻 About Me</h3>
 
 ###
