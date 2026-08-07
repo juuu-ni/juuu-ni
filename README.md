@@ -14,6 +14,17 @@
 
 ###
 
+<h3 align="left">✍️ Studying recently</h3>
+
+<p align="left">
+- FastAPI, vLLM 기반 LLM 서빙<br>
+- MCP, AI Agent Builder<br>
+- PDF/HWP 파싱, RAG 파이프라인 (bge-m3, pgvector)<br>
+- Supabase (RLS, PostgREST)
+</p>
+
+###
+
 <h3 align="center">🌈 Contact 🌈</h3>
 
 <div align="center">
