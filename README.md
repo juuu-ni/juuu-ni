@@ -6,15 +6,17 @@
 
 ###
 
+<h3 align="left">👩‍💻 About Me</h3>
+<hr>
+
 <p align="left">
 - 💻 AI + 웹 개발에 관심이 많습니다.<br>
 - 📚 꾸준히 공부하며 성장 중인 개발자입니다.<br>
 - 📌 시작한 것은 끝까지 마무리하는 개발자입니다.
 </p>
 
-###
-
 <h3 align="left">✍️ Studying recently</h3>
+<hr>
 
 <p align="left">
 - FastAPI, vLLM 기반 LLM 서빙<br>
@@ -23,9 +25,8 @@
 - Supabase (RLS, PostgREST)
 </p>
 
-###
-
 <h3 align="center">🌈 Contact 🌈</h3>
+<hr>
 
 <div align="center">
   <a href="mailto:posco233@gmail.com">
