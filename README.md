@@ -26,12 +26,18 @@
 
 ###
 
-<h3 align="center">📄 Certificate 📄</h3>
+<h3 align="left">📄 Certificate</h3>
 
-<p align="center">
-- SQLD | 한국데이터산업진흥원 (K-data) | SQLD-054018095 | 24.09.20<br>
-- 정보처리기사 | 한국산업인력공단 | 26202290377J | 26.09.11<br>
-- 컴퓨터활용능력 2급 | 대한상공회의소 | 26-K9-060194 | 26.09.01
+<p align="left">
+- SQLD (24.09.20)<br>
+&nbsp;&nbsp;&nbsp;- 한국데이터산업진흥원 (K-data)<br>
+&nbsp;&nbsp;&nbsp;- 자격번호 : SQLD-054018095<br><br>
+- 정보처리기사 (26.09.11)<br>
+&nbsp;&nbsp;&nbsp;- 한국산업인력공단<br>
+&nbsp;&nbsp;&nbsp;- 자격번호 : 26202290377J<br><br>
+- 컴퓨터활용능력 2급 (26.09.01)<br>
+&nbsp;&nbsp;&nbsp;- 대한상공회의소<br>
+&nbsp;&nbsp;&nbsp;- 자격번호 : 26-K9-060194
 </p>
 
 ###
