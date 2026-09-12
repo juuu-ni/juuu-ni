@@ -17,11 +17,26 @@
 <h3 align="left">✍️ Studying recently</h3>
 
 <p align="left">
+- 한국생산기술연구원 인턴 (2026.07.01 ~ )<br>
 - FastAPI, vLLM 기반 LLM 서빙<br>
 - MCP, AI Agent Builder<br>
 - PDF/HWP 파싱, RAG 파이프라인 (bge-m3, pgvector)<br>
 - Supabase (RLS, PostgREST)
 </p>
+
+###
+
+<h3 align="center">📄 Certificate 📄</h3>
+
+<div align="center">
+
+| 자격(면허)증명 | 발급처/발행기관 | 등록번호 | 취득일 |
+|:---:|:---:|:---:|:---:|
+| SQLD | 한국데이터산업진흥원 (K-data) | SQLD-054018095 | 24.09.20 |
+| 정보처리기사 | 한국산업인력공단 | 26202290377J | 26.09.11 |
+| 컴퓨터활용능력 2급 | 대한상공회의소 | 26-K9-060194 | 26.09.01 |
+
+</div>
 
 ###
 
